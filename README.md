@@ -1,2 +1,2 @@
 # PhishingAPP-Cortex-analyzer
-PhishingAPP is a new application that analyzes email files in the ".EML" format. With its API, users can send files and receive detailed results. We created this custom analyzer in Cortex to simplifies the workflow for SOC analysts, allowing them to access the report directly within TheHive platform.
+PhishingAPP is a recently developed application designed to analyze email files in the ".EML" format. It provides an API that allows users to send their files and receive comprehensive results. To facilitate the analysis of email files as observables, we have integrated a customized analyzer into Cortex. This integration streamlines the process for SOC analysts, enabling them to directly access the report within TheHive platform.
