@@ -1,0 +1,21 @@
+{
+  "name": "PhishingApp",
+  "version": "1.0",
+  "author": "Samira Lachahab, Ismail Ait Izana",
+  "url": "https://github.com/----",
+  "license": "AGPL-V3",
+  "description": "Analyze mail file using PhishingApp",
+  "dataTypeList": ["file"],
+  "baseConfig": "PhishingApp",
+  "command": "PhishingApp/phishingapp_analyzer.py",
+  "configurationItems": [
+    {
+      "name": "ip_address",
+      "description": "IP address of PhishingApp",
+      "type": "string",
+      "required": false,
+      "multi": false,
+      "defaultValue": ""
+    }
+  ]
+}
